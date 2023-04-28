@@ -17,3 +17,6 @@ ldflags="\
 -X 'github.com/alist-org/alist/v3/internal/conf.WebVersion=$webVersion' \
 "
 go build -ldflags="$ldflags" .
+
+@login --> stevessrlogin
+@manage --> stevessrmanage
