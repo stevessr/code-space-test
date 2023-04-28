@@ -1,3 +1,7 @@
+pnpm install && pnpm run build
+
+● 
+
 cp -r /workspaces/code-space-test/alist-web/dist /workspaces/code-space-test/alist/public/
 
 appName="blist"
